@@ -8,10 +8,10 @@ Press 1,2,3 or 4 for each weapon category (shown below)
 Then press E to switch weapons between same category.
 
 ==Keybinding required==
-    Each weapon number to their F variants so 1 -> F1, 2 -> F2, etc
-    Melee to F
-    Weapon mod to Q
-    E unbinded.
+Each weapon number to their F variants so 1 -> F1, 2 -> F2, etc
+Melee to F
+Weapon mod to Q
+E unbinded.
         
 ==Weapon Categories and keybinding==    
 Category 1 - Shotguns 
